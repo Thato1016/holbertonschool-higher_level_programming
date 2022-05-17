@@ -1,8 +1,9 @@
 #!/usr/bin/python3
-# 0-square.py
-"""Define a class Square."""
+
+
+"""Example Google style docstrings."""
 
 
 class Square:
-    """Represent a square."""
+    """The summary line for a class docstring should fit on one line."""
     pass
