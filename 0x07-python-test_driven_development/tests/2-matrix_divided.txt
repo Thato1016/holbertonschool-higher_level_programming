@@ -1,4 +1,5 @@
 # 2-matrix_divided.txt
+# Thato Khosa <tb.khosa@gmail.com>
 
 ==============================
 How to Use 2-matrix_divided.py

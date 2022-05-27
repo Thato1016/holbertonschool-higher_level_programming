@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 5-text_indentation.py
-#Thato Khosa
+# Thato Khosa
 """Defines a text-indentation function."""
 
 
